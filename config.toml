@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Student at ESIEA"
     description = "Antony David's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "C:\Users\Antony\Desktop\mywebsite\static\Jaypdp"
+    avatarurl = "images/JayPdp.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
