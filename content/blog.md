@@ -1,5 +1,5 @@
 +++
 title = "My blog"
-slug = "blo"g
+slug = "blog"
 +++
 In construction :)
