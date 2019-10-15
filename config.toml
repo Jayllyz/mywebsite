@@ -52,9 +52,9 @@ disqusShortname = "Jayllyz"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Project"
     weight = 1
-    url  = "/blog/"
+    url  = "/project/"
 [[menu.main]]
     name = "About"
     weight = 2
