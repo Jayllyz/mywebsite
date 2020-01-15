@@ -9,3 +9,5 @@ Im actually learning :
 - Python  
 - C   
 - HTML / CSS
+
+Je cherche actuellement un stage dans Paris dans le domaine de l'informatique pour le mois de juillet mon ![CV](https://bit.ly/2Tr03IG).
