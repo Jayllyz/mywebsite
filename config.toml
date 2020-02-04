@@ -40,10 +40,10 @@ disqusShortname = "Jayllyz"
     weight = 1
     url = "https://github.com/jayllyz/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fas fa-tv fa-2x"
-    weight = 2
-    url = "https://www.tvtime.com/fr/user/16702193/profile"
+    name = "Linkdekin"
+    icon = "fab fa-linkedin""
+    weight = 4
+    url = "https://www.linkedin.com/in/antony-david-8222161a0/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
