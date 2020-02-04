@@ -42,7 +42,7 @@ disqusShortname = "Jayllyz"
 [[params.social]]
     name = "Linkdekin"
     icon = "fa fa-linkedin-square"
-    weight = 2
+    weight = 4
     url = "https://www.linkedin.com/in/antony-david-8222161a0/"
 [[params.social]]
     name = "Twitter"
