@@ -3,6 +3,7 @@ title = "Survive the Tempest"
 slug = "project"	
 +++
  <img src="../images/logo.jpg" alt="logo" id="logo"/> 
+ 
 The game Survive the Tempest was my first real project started in 2019 with a friend.  
   In this game you are alone on an island and you have to collect resources to improve your buildings to survive an approaching storm.
 It was coded in Python during about 5 months, we wanted to do our best even if its was difficult, when we started I didn't know anything 
