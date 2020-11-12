@@ -2,7 +2,7 @@
 slug = "welleat"	
 +++
 
-<img src="static/images/welleat.jpg" alt="logo2" id="logo2"/> 
+<img src="welleat.jpg" alt="logo2" id="logo2"/> 
  
 # What's Well eat ?
 
