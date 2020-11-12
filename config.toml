@@ -52,13 +52,13 @@ disqusShortname = "Jayllyz"
 
 # Menu links
 [[menu.main]]
-    name = "WELL EAT"
+    name = "Well eat"
     weight = 1
     url = "/welleat/"
 [[menu.main]]
     name = "Survive the tempest"
     weight = 2
-    url  = "/survivethe tempest/"
+    url  = "/survivethetempest/"
 [[menu.main]]
     name = "About"
     weight = 3
