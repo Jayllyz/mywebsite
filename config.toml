@@ -25,13 +25,16 @@ disqusShortname = "Jayllyz"
 
     footercontent = ""
 
+	enableTwemoji = true
+
+	colorsheme = "auto"
     hidecredits = true
     hidecopyright = true
 
     rtl = false
 
     math = true
-    custom_css = ["custom_css.css"]
+    customCSS = ["custom_css.css"]
 
 # Social links
 [[params.social]]
@@ -40,7 +43,7 @@ disqusShortname = "Jayllyz"
     weight = 1
     url = "https://github.com/jayllyz/"
 [[params.social]]
-    name = "Linkdekin"
+    name = "Linkedin"
     icon = "fab fa-linkedin"
     weight = 2
     url = "https://www.linkedin.com/in/antony-david-8222161a0/"
@@ -54,13 +57,13 @@ disqusShortname = "Jayllyz"
 [[menu.main]]
     name = "Well eat"
     weight = 1
-    url = "/welleat/"
+    url = "welleat/"
 [[menu.main]]
     name = "Survive the tempest"
     weight = 2
-    url  = "/svt/"
+    url  = "svt/"
 [[menu.main]]
     name = "About"
     weight = 3
-    url = "/about/"
+    url = "about/"
 	
