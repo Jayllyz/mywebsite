@@ -4,6 +4,7 @@ slug = "svt"
 +++
 
 <img src="logo.jpg" alt="logo" id="logo"/> 
+![logo](content/logo.jpg)
  
 The game Survive the Tempest was my first real project started in 2019 with a friend.  
   In this game you are alone on an island and you have to collect resources to improve your buildings to survive an approaching storm.
