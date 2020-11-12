@@ -1,6 +1,15 @@
 #logo
 {
 position: absolute;
-right:0;
-top:0;
+right:680px;
+top:130px;
+}
+
+#logo2
+{
+position: absolute;
+right:680px;
+top:130px;
+max-width: 100%;
+height: auto;
 }
