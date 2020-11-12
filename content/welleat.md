@@ -3,7 +3,6 @@ slug = "welleat"
 +++
 
 <img src="welleat.jpg" alt="logo2" id="logo2"/> 
-![welleat](content/welleat.jpg)
  
 # What's Well eat ?
 
