@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "About me 🇫🇷"
 slug = "about"
 +++
 
@@ -8,6 +8,6 @@ Outside school I made 8 years of Badminton my favorite sport and I often play PC
 Im actually learning :  
 - Python  
 - C   
-- HTML / CSS
+- HTML / CSS & Javascript
 
-Je cherche actuellement un stage dans Paris dans le domaine de l'informatique pour le mois de juillet mon [CV](https://bit.ly/2Tr03IG "Mon CV").
+ Je cherche actuellement un stage dans Paris dans le domaine de l'informatique pour le mois de juillet mon [CV](https://bit.ly/2Tr03IG "Mon CV").

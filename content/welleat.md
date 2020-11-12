@@ -3,12 +3,16 @@ title = "Well eat"
 slug = "welleat"	
 +++
 
-<img src="static/images/welleat.png" alt="logo2" id="logo2"/> 
+<img src="../images/welleat.png" alt="logo2" id="logo2"/> 
  
-# Project Description
+# What's Well eat ?
 
-Well eat, is an application available on smartphone, allowing to find, share and reference restaurants, brasseries and other culinary places with the aim to allow everyone to enjoy these places known or not. 
+Well eat, is an application available on smartphone, allowing you to find, share and reference restaurants, pubs and other culinary places with the aim of allowing everyone to enjoy these places, whether they are well known or not. 
 
-Well eat is also a community platform, where everyone can add a new place, give a comment, share good tips ... It is therefore the community that makes the application live by improving the content of KBR every day. 
+Well eat is also a community platform, where everyone can add a new place, give a comment, share good advice ... 
 
-Once a place added by a user and validated by the moderation team, everyone can comment, give a note and use the temperature indicator to quickly show if the place is interesting or not let's sell KBR users.
+So it is the community that brings the application to life by improving the content every day. 
+
+Once a place is added by a user and validated by the moderation team, everyone can comment, give a note and use the temperature indicator to quickly show if the place is interesting or not.
+
+The application is currently under development, planned for 2021. 🍺
