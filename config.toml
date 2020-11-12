@@ -34,7 +34,7 @@ disqusShortname = "Jayllyz"
     rtl = false
 
     math = true
-    customCSS = ["custom_css.css"]
+    customCSS = ["images/custom_css.css"]
 
 # Social links
 [[params.social]]
