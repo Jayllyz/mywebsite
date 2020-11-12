@@ -36,7 +36,7 @@ disqusShortname = "Jayllyz"
     math = true
 	
     # Custom CSS
-    customCSS = ["static/css/custom.css"]
+    customCSS = ["css/custom.css"]
 
 # Social links
 [[params.social]]
