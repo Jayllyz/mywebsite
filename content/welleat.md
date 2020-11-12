@@ -1,6 +1,6 @@
 +++
 title = "Survive the Tempest"  
-slug = "survivethetempest"	
+slug = "welleat"	
 +++
 
 <img src="../images/welleat.png" alt="logo" id="logo"/> 
