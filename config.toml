@@ -58,7 +58,7 @@ disqusShortname = "Jayllyz"
 [[menu.main]]
     name = "Survive the tempest"
     weight = 2
-    url  = "/survivethetempest/"
+    url  = "/svt/"
 [[menu.main]]
     name = "About"
     weight = 3

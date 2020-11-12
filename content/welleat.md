@@ -1,8 +1,8 @@
 +++
-title = "Survive the Tempest"  
+title = "Well eat"  
 slug = "welleat"	
 +++
 
-<img src="../images/welleat.png" alt="logo" id="logo"/> 
+<img src="../images/welleat.png" alt="logo2" id="logo"/> 
  
 oui
