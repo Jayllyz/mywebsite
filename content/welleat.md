@@ -1,6 +1,5 @@
-+++ 
-title = "WellEat"  
-slug = "welleat"	
++++  
+slug = "WellEat"	
 +++
 
 <img src="welleat.jpg" alt="logo2" id="logo2"/> 
