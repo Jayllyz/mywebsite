@@ -57,7 +57,7 @@ disqusShortname = "Jayllyz"
 
 # Menu links
 [[menu.main]]
-    name = "Well eat"
+    name = "WellEat"
     weight = 1
     url = "/welleat/"
 [[menu.main]]
