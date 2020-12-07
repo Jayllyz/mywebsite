@@ -9,6 +9,7 @@ Im actually learning :
 - Python  
 - C   
 - HTML / CSS & Javascript
+
 I'm still a beginner because I've only done one year of learning C and a few sessions on web languages but
 I plan to really focus on programming in the future because for the moment the preparatory cycle prevents me from developing in this field. 🖥
 
