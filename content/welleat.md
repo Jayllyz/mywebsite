@@ -16,4 +16,4 @@ Once a place is added by a user and validated by the moderation team, everyone c
 
 The application is currently under development, we are 5 on the project and its planned for 2021.
 
-➡[@WellEatApp](https://twitter.com/WellEatApp "Twitter Well Eat") 🍺
+➡ [@WellEatApp](https://twitter.com/WellEatApp "Twitter Well Eat") 🍺
