@@ -29,7 +29,7 @@ rtl = false
 
 colorScheme = "light"
 # Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
+hideColorSchemeToggle = true
 # Series see also post count
 maxSeeAlsoItems = 5
 # Enable Twemoji
@@ -61,7 +61,7 @@ url = "https://twitter.com/jayllyz/"
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 3
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/antony-david-8222161a0/"
 
 
 [languages.en]

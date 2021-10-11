@@ -1,10 +1,7 @@
 +++  
 slug = "welleat"	
+title = " What's Well Eat ?"
 +++
-
-<img src="/images/welleat.png" alt="logo2" id="logo2"> 
- 
-# What's Well Eat ?
 
 Well Eat, is an application available on smartphone, allowing you to find, share and reference restaurants, pubs and other culinary places with the aim of allowing everyone to enjoy these places, whether they are well known or not.
 
