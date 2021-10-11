@@ -14,6 +14,6 @@ So it is the community that brings the application to life by improving the cont
 
 Once a place is added by a user and validated by the moderation team, everyone can comment, give a note and use the temperature indicator to quickly show if the place is interesting or not.
 
-The application is currently under development, we are 5 on the project and its planned for 2021(spoiler no)
+The application is currently under development, we are 5 on the project and it's planned for 2021 (spoiler no)
 
 ➡ [@WellEatApp](https://twitter.com/WellEatApp "Twitter Well Eat") 🍺
