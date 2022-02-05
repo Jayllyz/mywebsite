@@ -11,6 +11,8 @@ Im actually learning :
 - Python
 - C
 - HTML / CSS & Javascript
-- And soon many more :D
+- PHP
+- SQL (oracle)
+- XML / Ajax
 
 If you want to know more about my programming projects I invite you to visit my [github](https://github.com/Jayllyz) !
