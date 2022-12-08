@@ -61,7 +61,7 @@ url = "https://twitter.com/jayllyz/"
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 3
-url = "https://www.linkedin.com/in/antony-david-8222161a0/"
+url = "https://www.linkedin.com/in/antodavid"
 
 
 [languages.en]
@@ -72,10 +72,6 @@ name = "Survive the tempest"
 weight = 2
 url = "svt/"
 
-[[languages.en.menu.main]]
-name = "Well Eat"
-weight = 1
-url = "welleat/"
 
 [[languages.en.menu.main]]
 name = "CV"
