@@ -76,7 +76,7 @@ url = "svt/"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 1
-url = "https://jayllyz.github.io/online-cv/"
+url = "https://jayllyz.github.io/"
 
 [[languages.en.menu.main]]
 name = "About"
